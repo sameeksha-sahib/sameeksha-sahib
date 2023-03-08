@@ -35,6 +35,6 @@ I am an enthusiastic individual with 7+ years of experience in Test Automation D
 
 If you like my work, You can buy me a coffee/pizza/chocolate:
 
-<a href="[https://www.buymeacoffee.com/sameeksha](https://www.buymeacoffee.com/sameeksha)" target="_blank" rel="noreferrer nofollow">
-<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me Food 😄" height="40" width="170" >
+<a href="https://www.buymeacoffee.com/sameeksha" target="_blank" rel="noreferrer nofollow">
+<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170"/>
 </a>
