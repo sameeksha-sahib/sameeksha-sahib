@@ -21,7 +21,7 @@ I am an enthusiastic individual with 7+ years of experience in Test Automation D
 
 - ⚡ Skills: Core Java, Selenium WebDriver, Appium, Cucumber-Serenity framework, Selenide, Karate framework, RestAssured, Unirest, Specmatic, TestNG, Algorithm, MySql, Postman, Maven, TestRail, JIRA, Azure DevOps, Applitools, Visual testing
 
-- 👯 Any freelance work or paid trainings on Software Testing/Test Automation? do reach at [email](sameeksha.sahib@gmail.com) :)
+- 👯 Any freelance work or paid trainings on Software Testing/Test Automation? do reach at [email](mailto:sameeksha.sahib@gmail.com) :)
 - 💬 Ask me anything related to Software Testing/Test Automation, I would be happy to help!
 
 <div align="center">
