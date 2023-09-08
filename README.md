@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeksha-sahib&label=Profile%20views&color=0e75b6&style=flat" alt="sameeksha-sahib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameeksha-sahib" alt="sameeksha-sahib" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameeksha-sahib" alt="sameeksha-sahib" /></a> </p> -->
 
 I am an enthusiastic individual with 7+ years of experience in Test Automation Development who is looking for a thriving, long-term career in Information Technology and Automation. I have keen interest in programming and engineering solutions for real-world problems.
 
